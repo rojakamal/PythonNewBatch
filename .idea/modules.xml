@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../exception/.idea/exception.iml" filepath="$PROJECT_DIR$/../exception/.idea/exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytest01/.idea/pytest01.iml" filepath="$PROJECT_DIR$/../pytest01/.idea/pytest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium/.idea/selenium.iml" filepath="$PROJECT_DIR$/../selenium/.idea/selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test1.iml" filepath="$PROJECT_DIR$/.idea/test1.iml" />
+    </modules>
+  </component>
+</project>
